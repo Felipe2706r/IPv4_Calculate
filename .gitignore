@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
+
+# Artefactos de Tkinter / Pillow
+*.log
