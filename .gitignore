@@ -20,3 +20,6 @@ Thumbs.db
 
 # Artefactos de Tkinter / Pillow
 *.log
+
+#Documentos usados para el desarrollo
+docs_desarrollo/

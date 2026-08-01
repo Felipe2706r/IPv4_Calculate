@@ -1,4 +1,6 @@
-# Dependencia para carga, manejo y renderizado de imagenes en la interfaz Tkinter.
+# Dependencia para carga, manejo y renderizado de imagenes en la interfaz.
 # Instalacion desde terminal:
-# python -m pip install Pillow>=10.0.0
-Pillow>=10.0.0
+# python -m pip install Pillow>=12.3.0
+Pillow>=12.3.0
+# python -m pip install customtkinter>=6.0.0
+customtkinter>=6.0.0
