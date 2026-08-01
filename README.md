@@ -45,7 +45,7 @@ De no usar este metodo, instalar dependencias de forma manual desde CLI:
    ```bash
    python -m pip install customtkinter
    ```
-2. Ejecutar el módulo principal de la interfaz en la la raíz del proyecto::
+2. Ejecutar el módulo principal de la interfaz en la la raíz del proyecto:
    ```bash
    python pantalla_principal.py
    ``` 
@@ -77,4 +77,4 @@ De no usar este metodo, instalar dependencias de forma manual desde CLI:
 - **3.red_broadcast_completos**: Cálculo y muestra de datos particulares de Dirección IP establecidos en el objetivo del proyecto.
 - **4.lista_subredes_inicio_broadcast**: Cálculo y muestra de datos particulares, junto con la muestra de: Lista de subredes, Rango de uso y Broadcast de Subred.
 - **calculo_binario**: Cálculo de lista de subredes, rango de uso y broadcast de subred. Retorna los mismos mediante listas.
-- **calculo_valores_subredes**: Cálculo números en notación decimal y binario mediante funciones..
+- **calculo_valores_subredes**: Cálculo números en notación decimal y binario mediante funciones.
